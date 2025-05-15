@@ -1,1 +1,1 @@
-[![Ask DeepWiki](D:\PythonFed\assets\badge.svg+xml)](https://deepwiki.com/wangzaiyu482/Fed)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/wangzaiyu482/Fed)
